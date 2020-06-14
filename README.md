@@ -6,8 +6,9 @@
 Prerequisites: Unity (EditorVersion: 2019.2.5f1).
 
 ### How to Run:
-a. Create new Unity project
-b. Import the Unity package "Team_8" in folder “code” in the project, then run scene “project”
+1. Create new Unity project
+
+2. Import the Unity package "Team_8" in folder “code” in the project, then run scene “project”
 
 ## OR
 
